@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Test node example",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/royce55/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "royce55",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royce55/node-example/issues"
+  },
+  "homepage": "https://github.com/royce55/node-example",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.0.0"
+  }
+  "engines": {
+    "node": "0.10.x"
+  }
+}
